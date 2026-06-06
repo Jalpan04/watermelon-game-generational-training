@@ -1,6 +1,6 @@
 # Watermelon Game (Suika Game) Clone with AI Autoplay
 
-![GitHub top language](https://img.shields.io/github/languages/top/Jalpan04/watermelon-game-generational-training) ![GitHub repo size](https://img.shields.io/github/repo-size/Jalpan04/watermelon-game-generational-training) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org) [![Pygame](https://img.shields.io/badge/Pygame-F37626?style=flat&logo=python&logoColor=white)](https://www.pygame.org) [![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)](https://opencv.org) ![GitHub repo size](https://img.shields.io/github/repo-size/Jalpan04/watermelon-game-generational-training) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 A custom desktop Pygame clone of the popular **Watermelon Game (Suika Game)**, accompanied by an automated AI player agent (`learner.py`) that plays the game autonomously using Computer Vision (OpenCV) and screen control inputs (PyAutoGUI).
 
